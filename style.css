@@ -1,0 +1,19 @@
+.div_grid
+{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.headline
+{
+    text-align: center;
+    font-size: 30px;
+}
+.back
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
